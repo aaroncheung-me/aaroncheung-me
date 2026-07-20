@@ -9,8 +9,8 @@ with zero dependencies, terminal aesthetic and all.
 
 Art came first, code second. I'm a self-taught digital artist and musician,
 which is most of why I care how things look and feel, not just whether they
-run. It's also why one of these repos is a bot that posts my art for me.
+run.
 
-Say hi: me@aaroncheung.me ·
+Say hi: contact@aaroncheung.me ·
 aaroncheung.me ·
 [LinkedIn](https://www.linkedin.com/in/aaron-c-cheung)
